@@ -20,7 +20,7 @@
 			</ul>
 		<img src="media/annie.png" alt="My dog"/>
 		<p>This is my dog Annie, who I think is a golden retriever/border collie mix. She's so smart and adventurous!</p>
-		<img src="media/leila2.jpg" alt="My cat"/>
+		<img src="media/leila2.JPG" alt="My cat"/>
 		<p>This is my cat Leila. Don't be confused that she looks like a dog. She's afraid of water, demands affection constantly, and isn't very bright. Hence, she's a cat.</p>
 	</body>
 	<footer>
