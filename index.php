@@ -13,12 +13,14 @@
 				<li>Skiing</li>
 				<li>Mountain biking</li>
 				<li>Rock climbing</li>
-				<li>Backpacking in the wilderness</li>
+				<li>Backpacking</li>
 				<li>Dogs</li>
 				<li>Craft beer</li>
 				<li>Current events and journalism</li>
 				<li>Battlestar Galactica</li>
 			</ul>
+		<img src="media/annie.png" alt="My dog"/>
+		<p>This is my dog Annie, who I think is a golden retriever/border collie mix. She's so smart and adventurous!</p>
 	</body>
 	<footer>
 		<small>© 2016 by Kate McGaughey, therealmcgaughey@gmail.com</small>
