@@ -2,39 +2,24 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>About Me</title>
+		<title>Purpose</title>
 	</head>
 	<body>
-		<h1>My Name is Kate McGaughey</h1>
-		<p>For the last eight years I have lived in Santa Fe, an outdoorsman's paradise. I just moved to Albuquerque to attend the Deep Dive Coding Bootcamp. When I graduate on June 17, 2016, I will be seeking work as a full-stack web developer, and this website will have been replaced because I do not wish to have a "personal website." (My LinkedIn and github will serve this purpose.) Please don't check back. :)</p>
-		<h2>Some of my favorite things</h2>
+		<h2>Purpose</h2>
+		<p>The purpose of this site is to practice HTML, directory structures, documentation, and deployment. I do not wish to have a "personal website" after this assignment is completed.</p>
+		<p>The audience for this is my instructors.</p>
+		<h2>These are my goals:</h2>
 		<ul>
-			<li>Skiing</li>
-			<li>Mountain biking</li>
-			<li>Rock climbing</li>
-			<li>Backpacking</li>
-			<li>Dogs</li>
-			<li>Craft beer</li>
-			<li>Current events and journalism</li>
-			<li>Battlestar Galactica</li>
+			<li>To acquire full employment with a salary and benefits, beginning 7/1/16 or later. I am not open to contract work, as I'm a WIOA recipient.</li>
+			<li>To showcase my work on LinkedIn and github.</li>
+			<li>(For the record, until this class I had a very low digital profile, and I do not wish to have anything more public than my Twitter, LinkedIn, and github accounts.)</li>
 		</ul>
-		<h3>Some other skillfull things I wouldn't put on a resume:</h3>
-		<ul>
-			<li>An ear for music - figuring out songs on my guitar from the recording, memory, and/or knowledge of basic song structure.</li>
-			<li>Small trunk? I'm a boss at packing lots of awkwardly-sized objects into small spaces.</li>
-			<li>In case of a viral pandemic, I've got us covered.</li>
-			<li>Very good at reacting to ugly babies.</li>
-			<li>Due to an anatomical anomaly, if I wanted to learn circular breathing, I could sqirt milk out my tear ducts like that guy on Ripley's Believe it or Not. I would really rather not invest the time...</li>
-			<li>Hitchhiked through Tasmania with no protection but a Leatherman. If you had asked my mother to draw you a picture of the kind of driver I should <i>not</I> get in a truck with, I got in a truck with that guy. He was cool though. He bought my friend and I orange juice and cookies.</li>
-		</ul>
-		<img src="media/annie.png" alt="My dog"/>
-		<p>This is my dog Annie, who I think is a golden retriever/border collie mix. She's so smart and adventurous!</p>
-		<img src="media/leila.jpg" alt="My cat"/>
-		<p>This is my cat Leila. Don't be confused if she looks like a dog. She's afraid of water, demands constant affection, and sits down on top of others. Hence, she's a cat.</p>
-		<h4>If you would like to know anything more about me, connect with me on Twitter @RealMGaughey.</h4>
+		<h2>Persona</h2>
+			<p>My instructors need to check my work and grade me. They are probably frustrated because I don't want a personal website. :)</p>
+		<h2>Use Case</h2>
+			<p>On the morning of Tuesday, April 19, my instructor Rochelle will use her Windows laptop to access this work over the STEMulus center's wireless network. Her goal is to evaluate my work.</p>
 	</body>
 	<footer>
-		<img src="media/giphy.gif" alt="Gif" style="width:48px;height:48px;">
 		<small>© 2016 by Kate McGaughey, therealmcgaughey@gmail.com</small>
 	</footer>
 </html>
