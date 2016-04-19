@@ -6,7 +6,7 @@
 	</head>
 	<body>
 		<h1>My Name is Kate McGaughey</h1>
-		<p>I'm the real McGaughey! After eight years in Santa Fe, I moved to Albuquerque to attend the Deep Dive Coding Bootcamp. When I graduate on June 17, 2016, I will be seeking work as a full-stack web developer.</p>
+		<p>For the last eight years I have lived in Santa Fe, an outdoorsman's paradise. I just moved to Albuquerque to attend the Deep Dive Coding Bootcamp. When I graduate on June 17, 2016, I will be seeking work as a full-stack web developer, and this website will have been replaced. Please don't check back. :)</p>
 		<h2>Some of my favorite things</h2>
 			<ul>
 				<li>Skiing</li>
@@ -20,8 +20,8 @@
 			</ul>
 		<img src="media/annie.png" alt="My dog"/>
 		<p>This is my dog Annie, who I think is a golden retriever/border collie mix. She's so smart and adventurous!</p>
-		<img src="media/leila2.JPG" alt="My cat"/>
-		<p>This is my cat Leila. Don't be confused that she looks like a dog. She's afraid of water, demands affection constantly, and isn't very bright. Hence, she's a cat.</p>
+		<img src="media/leila.jpg" alt="My cat"/>
+		<p>This is my cat Leila. Don't be confused if she looks like a dog. She's afraid of water, demands constant affection, and she lacks for intelligence compared to the dog. Hence, she's a cat.</p>
 	</body>
 	<footer>
 		<small>© 2016 by Kate McGaughey, therealmcgaughey@gmail.com</small>
